@@ -1,0 +1,5 @@
+Build Date: 2026-01-30 07:11:49 UTC
+Commit: af24ce1be27bff4f21718fe49dbcd99361e139ac
+Repository: inhoinwo-blip/designSystem
+Branch: main
+Files: 1 obfuscated JavaScript files
